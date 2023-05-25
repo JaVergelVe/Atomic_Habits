@@ -1,5 +1,8 @@
 label escena_2_RM:
+    scene fondoNegro
     narrador"Al otro día…"
+    with fade
+    scene casa
     emir"¡¡Rayos!! Voy a llegar tarde."
     narrador"Emir mira el lugar y se da cuenta de que está en su casa, la cual está es un completo desorden."
     emir"Verdad, estaba soñando hasta hace un momento."

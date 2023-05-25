@@ -2,17 +2,9 @@
 errors listed below, and try again.
 
 
-The label escena1RutaMain is defined twice, at File "game/acto1/escena1RM.rpy", line 1:
-label escena1RutaMain:
-and File "game/script.rpy", line 15:
-    label escena1RutaMain:
-
-
-The label escena2RutaMain is defined twice, at File "game/acto1/escena2RM.rpy", line 1:
-label escena2RutaMain:
-and File "game/script.rpy", line 19:
-    label escena2RutaMain:
-
+File "game/acto1/escena_2_RM.rpy", line 2: expected 'image_name_component' not found.
+    scene ("#000000")
+          ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Tue May 23 21:39:48 2023
+Thu May 25 00:34:51 2023

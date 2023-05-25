@@ -7,6 +7,12 @@ define emir = Character("Emir")
 define albedo = Character("Albedo")
 define amelia = Character("Amelia")
 
+image fondoNegro = "fondo_negro.jpg"
+image biblioteca1 = "biblioteca.png"
+image salidaSchool = "escuela.jpg"
+image calle = "calle.png"
+image casa = "casa.jpg"
+
 # El juego comienza aquí.
 
 label start:
