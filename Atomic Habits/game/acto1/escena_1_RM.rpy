@@ -4,13 +4,13 @@ label escena_1_RM:
     "Ah… ¡Cierto!"
     narrador"Una luz se llena en sus ojos como si hubiera encontrado las respuestas a sus preguntas."
     with fade
-    scene biblioteca1
+    scene biblioteca
     "¡Claro! Estoy en la biblioteca de la escuela. Me encuentro aquí, debido a que estoy presentando el servicio social obligatorio. ¡Aaafff, que flojera!"
     narrador"Con un gran suspiro, el muchacho se levanta de su asiento y comienza a ordenar un par de libros que tenía adjuntos."
     "Que fastidio… esto del servicio social obligatorio, es realmente aburrido…"
     "Sobre todo si el trabajo que se me fue asignado fue el de clasificar estos libros…"
     with dissolve
-    scene salidaSchool
+    scene escuela
     narrador"Pocos minutos después, termina de ordenar los libros, para acto seguido cerrar la biblioteca y emprender el camino a casa."
     "Bueno. Por lo menos hoy termine temprano… me iré rápido a casa para por fin dormir a gusto."
     narrador"Cuando el joven estaba a punto de dejar la escuela, es rápidamente detenido por un brazo que se enrolla en su cuello de forma algo brusca. Haciendo que el muchacho gire la cabeza hacia la persona que lo había detenido."
