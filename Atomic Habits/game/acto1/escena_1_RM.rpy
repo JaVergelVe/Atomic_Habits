@@ -1,16 +1,17 @@
+#Escena 1 Ruta Main
 label escena_1_RM:
     "¡¿Ah?! ¿Dónde estoy? ¿Qué hago aquí? ¿Quién soy?"
     narrador"Con un sobresalto, el joven se levanta del asiento en donde se encuentra."
     "Ah… ¡Cierto!"
     narrador"Una luz se llena en sus ojos como si hubiera encontrado las respuestas a sus preguntas."
-    with fade
     scene biblioteca
+    with fade
     "¡Claro! Estoy en la biblioteca de la escuela. Me encuentro aquí, debido a que estoy presentando el servicio social obligatorio. ¡Aaafff, que flojera!"
     narrador"Con un gran suspiro, el muchacho se levanta de su asiento y comienza a ordenar un par de libros que tenía adjuntos."
     "Que fastidio… esto del servicio social obligatorio, es realmente aburrido…"
     "Sobre todo si el trabajo que se me fue asignado fue el de clasificar estos libros…"
-    with dissolve
     scene escuela
+    with dissolve
     narrador"Pocos minutos después, termina de ordenar los libros, para acto seguido cerrar la biblioteca y emprender el camino a casa."
     "Bueno. Por lo menos hoy termine temprano… me iré rápido a casa para por fin dormir a gusto."
     narrador"Cuando el joven estaba a punto de dejar la escuela, es rápidamente detenido por un brazo que se enrolla en su cuello de forma algo brusca. Haciendo que el muchacho gire la cabeza hacia la persona que lo había detenido."
@@ -24,8 +25,8 @@ label escena_1_RM:
     albedo"No te preocupes."
     albedo"Bien, entonces, ¿nos vamos?"
     emir"Está bien."
-    with dissolve
     scene calle
+    with dissolve
     narrador"Ambos proceden a dejar la escuela para llegar a sus casas."
     narrador"Mientras están en el trayecto a su viaje. Emir comienza a hablar en voz baja para sí mismo."
     emir"Me llamo Emir. Tengo 16 años y estoy cursando el penúltimo año de secundaria. El que está a mi lado, es un amigo llamado Albedo, un maldito fastidioso que se me pegó el primer día que nos encontramos en el servicio social en la biblioteca."
@@ -46,6 +47,5 @@ label escena_1_RM:
     emir"¡Puaf!, por fin he llegado."
     narrador"Abre la puerta de la casa y entra."
     narrador"Luego de que Emir entrara a su casa, el resto del día pasó sin más."
-    with dissolve
 
     jump escena2RutaMain

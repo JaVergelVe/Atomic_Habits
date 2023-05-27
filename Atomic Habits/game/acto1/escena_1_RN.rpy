@@ -1,7 +1,9 @@
+#Escena 1 Ruta Neutral
 label escena_1_RN:
-    with fade
     scene fondoNegro
-    "Esta parte es para mas adelante mi gente"
+    with fade
+    "Esta parte es para mas adelante mi gente..."
     "Falta presupuesto ;)"
-    "Chao"
-    "Gracias por jugar la versión alpha del juego"
+    "Gracias por jugar la versión alpha del juego :3"
+    "Chao <3"
+    with dissolve

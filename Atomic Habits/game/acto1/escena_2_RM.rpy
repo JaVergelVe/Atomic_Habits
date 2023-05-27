@@ -1,28 +1,30 @@
+#Escena 2 Ruta Main
 label escena_2_RM:
     scene fondoNegro
-    narrador"Al otro día…"
     with fade
+    narrador"Al otro día…"
     scene casa
-    emir"¡¡Rayos!! Voy a llegar tarde."
+    with fade
+    emir"¿Eh? ¿Qué día es?"
     narrador"Emir mira el lugar y se da cuenta de que está en su casa, la cual está es un completo desorden."
     emir"Verdad, estaba soñando hasta hace un momento."
     emir"Cada vez los sueños se ponen peores."
     emir"Parece que tendré que hacer algo… pero ¿Que hago?"
     narrador"Emir mira la hora y se da cuenta de que va a llegar tarde a la escuela si no se apresura."
-    with fade
     scene calle2
+    with dissolve
     emir"Como sea, no tengo tiempo ahora, se me ocurrirá algo en otro momento."
     narrador"Casi con un esfuerzo demencial, Emir logra llegar justo a tiempo a la escuela."
-    with fade
     scene escuela2
+    with dissolve
     emir"¡affffff! maldición… uffffff!!!!"
     narrador"Aún exaltado y con la cara sudorosa, Emir se apresura para tomar su asiento en el salón de clases."
     emir"Por fin…fiuuuu ufffff llegue. Casi no lo consigo."
-    with fade
     scene classroom
+    with dissolve
     narrador"Las clases pasan sin mucha complicación. Al terminar de recoger sus cosas de su escritorio, Emir toma su ruta habitual a la biblioteca."
-    with fade
     scene biblioteca2
+    with dissolve
     emir"Mmmm, parece que Albedo no ha llegado, que raro."
     narrador"Mientras que Albedo llegaba, Emir estaba pensando en qué hacer con su problema del sueño, pero estaba tan ensimismado que no se dio cuenta de que Albedo ya había llegado hace un rato."
     albedo"Emir… ¿Emir? Tierra llamando a Emir."
@@ -43,8 +45,8 @@ label escena_2_RM:
     albedo"Si lo hiciste, justo después de decir que no estabas distraído."
     emir"Pero eso no vale, no tiene sentido."
     albedo"Si vale, claro que vale."
-    with fade
     scene biblioteca
+    with dissolve
     albedo"Bueno tomaré esa respuesta como un “Estoy de acuerdo con ir al centro comercial a las 3 de la tarde” o algo así."
     albedo"Tengo otras cosas que hacer, así que me iré, nos vemos el domingo en el centro comercial, no llegues tarde."
     emir"¿Qué? no espera, cómo te vas a ir si ni siquiera hemos acabado el turno en la biblioteca…"

@@ -1,4 +1,7 @@
+#Escena 3 Ruta Main
 label escena_3_RM:
+    scene mall
+    with fade
     narrador"Es el día del encuentro. Emir, llega antes de la hora prevista para reunirse con Albedo."
     emir"Estoy tan nervioso, no he salido con nadie desde que vivo en esta ciudad y termine llegando 20 minutos antes."
     emir"Como era de esperarse, Albedo no ha llegado aún."
@@ -21,15 +24,23 @@ label escena_3_RM:
     emir"Está bien, vamos."
     emir"¿Qué se supone que vamos a jugar?"
     albedo"No seas impaciente, ya lo veras, de seguro te va a gustar."
+    scene fondoNegro
+    with fade
     narrador"Emir y Albedo juego juntos hasta que se cansan y deciden ir a otro lugar a comer algo."
+    scene mall2
+    with dissolve
     albedo"Me divertí bastante jugando contigo, fue agradable."
     emir"Es verdad, yo también la pase bien."
     albedo"Aunque tengo algo de hambre, ¿Vamos a comer en alguna cafetería cercana?"
     emir"Bueno, también me está empezando a dar algo de hambre."
+    scene cafeteria
+    with dissolve
     albedo"Esta cafetería es buena, ¿Qué dices? ¿Comemos acá?"
     emir"La verdad no sé mucho sobre cafeterías, así que por mí está bien."
     albedo"Entonces está decidido, comeremos aquí."
     narrador"Emir y Albedo piden lo que van a comer y mientras que esperan a que llegue su pedido hablan de algunas cosas importantes."
+    scene cafeteria2
+    with dissolve
     albedo"Sabes Emir, la comida que pedimos no es difícil de preparar."
     emir"¿Porque hablas como si supieras preparar la comida que pedimos?"
     albedo"Eso es porque, en efecto, se como hacerlo."

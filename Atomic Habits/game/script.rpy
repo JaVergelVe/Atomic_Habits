@@ -16,6 +16,10 @@ image classroom = "classroom.png"
 image calle = "calle.png"
 image calle2 = "calle2.png"
 image casa = "casa.png"
+image mall = "mall.png"
+image mall2 = "mall2.png"
+image cafeteria = "cafeteria.png"
+image cafeteria2 = "cafeteria2.png"
 
 # El juego comienza aquí.
 
